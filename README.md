@@ -1,6 +1,6 @@
 # Introduction to Spatial Statistics with Python
 
-<img src="images/sa-1.png">
+![Map Image](images/sa-1.png)
 
 Visual interpretations are meaningful ways to determine spatial trends in our data. However, underlying factors—such as inconsistent geographies, scale, data gaps, overlapping data—have the potential to produce incorrect assumptions, as valuable information may be conveniently hidden from the visual output.
 
@@ -16,9 +16,12 @@ Choose "University of California, Los Angeles" from the drop down for "Identity 
 
 - [UCLA JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-python-spatial-stats&urlpath=tree%2Fworkshop-python-spatial-stats%2FSpatial+Autocorrelation.ipynb&branch=main)
 
-
 ## Binder link to non-UCLA participants
 
 Warning: Launching the binder link will take about 5 minutes.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yohman/workshop-python-spatial-stats/HEAD?filepath=Spatial%20Autocorrelation.ipynb)
+
+## Laws of Geography
+
+[Laws of Geography](LAWS.md)
