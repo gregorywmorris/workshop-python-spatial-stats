@@ -16,6 +16,7 @@ dependencies = [
     "matplotlib",
     "plotly",
     "jupyter>=1.0.0",
+    "ipython>=8.26.0",
 ]
 requires-python = "==3.11.*"
 readme = "README.md"
