@@ -1,0 +1,25 @@
+[project]
+name = "workshop-python-spatial-stats"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "gregorywmorris", email = "gwm1980@gmail.com"},
+]
+dependencies = [
+    "pandas",
+    "sodapy",
+    "geopandas",
+    "contextily",
+    "esda",
+    "splot",
+    "libpysal",
+    "matplotlib",
+    "plotly",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
